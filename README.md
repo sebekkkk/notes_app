@@ -84,10 +84,6 @@ Build `notes_app` from the source and install dependencies:
 
 Run the project with:
 
-Using **npm**:
-
-Using npm:
-
 ```bash
-Copy code
-npm test
+node app.js
+
