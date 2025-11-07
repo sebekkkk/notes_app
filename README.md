@@ -1,9 +1,5 @@
 # 🗒️ NOTES_APP
 
-*Transform Ideas into Organized, Effortless Notes*
-
-![license](https://img.shields.io/badge/license-MIT-green?style=flat-square)
-![version](https://img.shields.io/badge/version-1.0.0-blue?style=flat-square)
 ![language](https://img.shields.io/badge/language-JavaScript-yellow?style=flat-square)
 
 **Built with the tools and technologies:**
