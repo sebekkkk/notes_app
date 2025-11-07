@@ -16,16 +16,6 @@
 
 ---
 
-## 📚 Table of Contents
-- [Overview](#overview)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Testing](#testing)
-
----
-
 ## 🧩 Overview
 
 `notes_app` is an open-source, full-stack notes management platform designed for developers to quickly build secure, user-centric applications. It integrates user authentication, session handling, and dynamic content rendering to streamline the development of personalized note-taking solutions.
