@@ -86,14 +86,8 @@ Run the project with:
 
 Using **npm**:
 
-```bash
-npm start
-🧪 Testing
-notes_app uses the Jest (test_framework) test framework.
-Run the test suite with:
-
 Using npm:
 
-bash
+```bash
 Copy code
 npm test
